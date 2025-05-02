@@ -1,13 +1,16 @@
 🚀 Locathing Flutter Demo
 A clean and modern example of integrating the Locathing SDK — a lightweight Dart client for powerful address search and geocoding using the Locathing REST API.
 
-![Locathing Banner](https://github.com/Marciocheudon/locathing_app_example/assets/locathinglogo.png)
+![Locathing Banner](https://github.com/Marciocheudon/locathing_app_example/raw/main/assets/locathinglogo.png)
 
 
 ✨ Overview
 This demo project shows how to use the locathing_sdk package in a Flutter app. With it, you can:
 
 🔍 Perform real-time address searches.
+
+![Locathing Banner](https://github.com/Marciocheudon/locathing_app_example/raw/main/assets/mainpage.png)
+
 
 📍 Filter results based on geographic proximity.
 
